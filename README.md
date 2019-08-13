@@ -21,7 +21,7 @@ Ported from Victor's lesson repository [here](https://github.com/MrGeislinger/fl
 
 #### Lesson Summary:
 
-This lesson introduces the concept of OOP with an analogy to cars, blueprints and manufactured instances of these. It then introduces a simple robot class which is progressively built upon to include attributes, methods and the reflexive `self`reference. Current outline is complete code-along / lecture style with no formalized questions incorporated.
+This lesson discusses the concept of private variables and how to use decorators to make setter/getter calls. The `__init__` method is also introduced. Finally, object inheritence is also briefly investigated using the robot class example.
 
 #### Topic:
 
