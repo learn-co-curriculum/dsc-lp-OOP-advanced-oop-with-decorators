@@ -31,7 +31,7 @@ OOP
 
 #### Prerequisite knowledge/ Prework:
 
-Basic python, including defining functions.
+Basic understanding of OOP and ability to write / instantiate simple classes.
 
 #### Learning goals for this lesson:
 
