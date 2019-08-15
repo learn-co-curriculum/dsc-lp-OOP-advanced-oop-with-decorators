@@ -31,7 +31,7 @@ OOP
 
 #### Prerequisite knowledge/ Prework:
 
-Basic understanding of OOP and ability to write / instantiate simple classes.
+Basic understanding of classes and instances. Students should be able to define and instantiate classes with basic methods and attributes.
 
 #### Learning goals for this lesson:
 
